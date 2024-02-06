@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Keeton Ketron"
   avatar           : "profile.jpg"
-  bio              : "Senior ot the University of Louisville studdying computer science engineering"
+  bio              : "Senior ot the University of Louisville studying computer science engineering"
   location         : "University of Louisville"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/timothy-ketron-14416521b/
   orcid            : 
   pinterest        :
   soundcloud       :

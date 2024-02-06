@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of snake my favorite project I have done](/images/snake_homepage.png){: .align-right width="300px"}
+![Illustration of snake my favorite project I have done](/images/snake_homepage.png){: .align-right}
 WOP intro website, Link example[academicpages template](https://github.com/academicpages/academicpages.github.io).
 
 Bold sub section
