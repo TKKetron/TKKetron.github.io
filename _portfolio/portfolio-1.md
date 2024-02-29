@@ -1,7 +1,13 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Steerable Parachute"
+excerpt: "A system designed to guide a payload to a desired GPS coordinate dropped from a high altitude"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+What is the SPS?
+
+The SPS was the payload to be flown with River Cities Rocket Team, or RCR for short, rocket at the 2023 space port of america. The rocket was developed with the Steerable Parachute system, or sps, in mind to deploy it at 10,000ft. From there the SPS would receive a GPS lock and guide itself to the best of its ability to the desired coordinates. It achieved this by pull and pushing a set of strings connected to a cruciform parachute.
+
+![Cruciform Parachute](/images/cruciform.jpg)
+
+Pulling down on the left side and raising up on hte right allowed for the SPS to guide the payload in a specific direction. By using a combination of both sets of lines you could get any heading desired by pulling one set and releasing another at varying amounts.
