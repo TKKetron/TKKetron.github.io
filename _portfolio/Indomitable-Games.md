@@ -4,10 +4,11 @@ excerpt: "A game company I have made with some friends currently in the process 
 collection: portfolio
 ---
 
-What is the SPS?
+A "company" i have made for developing games in my free time. Currently this is a massive work in progress and hasn't made any gems yet but in my free time I have begun development of my first real game. we are currently using Unity because I have had some experience with it in the past.
 
-The SPS was the payload to be flown with River Cities Rocket Team, or RCR for short, rocket at the 2023 space port of america. The rocket was developed with the Steerable Parachute system, or sps, in mind to deploy it at 10,000ft. From there the SPS would receive a GPS lock and guide itself to the best of its ability to the desired coordinates. It achieved this by pull and pushing a set of strings connected to a cruciform parachute.
+***Planetary Domination***
+This is the first game I am currently working on with a friend. The idea of the game is a optimization based base builder, similar to games like Factorio. It is still in VERY early stages of development and all we have is player movement and a very simple menuing system.
 
-![Cruciform Parachute](/images/cruciform.jpg)
+![Player Preview](/images/Indomitable%20Games/Planetary%20Domination/Early%20development.png)
 
-Pulling down on the left side and raising up on hte right allowed for the SPS to guide the payload in a specific direction. By using a combination of both sets of lines you could get any heading desired by pulling one set and releasing another at varying amounts.
+Above shows our current testing state, We have just a character able to walk around on a randomly generated world and collision on objects like the house in the top left. Currently we are working on advanced world generation and then moving onto item interactions.
