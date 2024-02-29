@@ -1,6 +1,6 @@
 ---
 title: "Texted Based RPG"
-excerpt: "A simple RPG game made in c++ using only text in command line to allow a player to gather items and fight enemies"
+excerpt: "A simple RPG game made in c++ using only text in command line to allow a player to gather items and fight enemies<br/><img src='/images/Text Based RPG/Main Menu.png'>"
 collection: portfolio
 ---
 
