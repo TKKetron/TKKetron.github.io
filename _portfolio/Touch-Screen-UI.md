@@ -8,6 +8,6 @@ A touchscreen UI made to operate a cold brew coffee machine. The UI system was r
 
 Unfortunately I cannot provide the code for this project due to it being from my word at advanced automation, but I do have a demo of it working
 
-![UI Demo](/files/ui.MOV)
+[![UI Example](/images/ui.png)]({/files/ui.MOV} "Link Title")
 
 The raspberry pi running this also controlled all of the values and heaters to brew coffee. This was a completely automated system that would take the user input and brew kegs of coffee developed by advanced automation.
