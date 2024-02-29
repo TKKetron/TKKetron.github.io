@@ -4,10 +4,9 @@ excerpt: "A current solutions company a friend of mine founded that I to help so
 collection: portfolio
 ---
 
-What is the SPS?
+A solutions Company Developed by my friend for contracting out to other companies and provide engineers for smaller companies to hire and develope new ideas.
 
-The SPS was the payload to be flown with River Cities Rocket Team, or RCR for short, rocket at the 2023 space port of america. The rocket was developed with the Steerable Parachute system, or sps, in mind to deploy it at 10,000ft. From there the SPS would receive a GPS lock and guide itself to the best of its ability to the desired coordinates. It achieved this by pull and pushing a set of strings connected to a cruciform parachute.
+Originally created to work with a company called Wicked sheets. where we are currently helping develope a blanket to detect moisture to be used in nursing homes. It has also expanded to other companies seeking any contracts we think would be interesting problems to solve.
 
-![Cruciform Parachute](/images/cruciform.jpg)
-
-Pulling down on the left side and raising up on hte right allowed for the SPS to guide the payload in a specific direction. By using a combination of both sets of lines you could get any heading desired by pulling one set and releasing another at varying amounts.
+***Wicked Sheets***
+We have helped with the development of a blanket that can detect moisture. Wicked sheets started with a prototype of a blanket using a moister sensor and a QTPY along with their custom designed blankets to detect moisture. We have since helped improve the design by making it more robust and adding in new technologies. We are currently adding new features like data aggregation and auto calibration. Along with a redesign of the electrical side of the blanket and making a custom PCB to use and connect with a new in house app.
