@@ -12,17 +12,17 @@ At first I defined the input layer as all the information I could give it. I def
 
 This was the simple UI i threw together in order to train the AI. It has a simple learn button, which taught 1 generation. I added a checkbox so that it would learn on repeat. and finally a Kill button to kill the current snake being displayed so it would update to the latest generation.
 
-[Snake AI](/images/AI/snake%20ai.png)
+![Snake AI](/images/AI/snake%20ai.png)
 
 Check out the code [HERE](https://github.com/TKKetron/Snake-AI)
 
 During my senior year of college I revisited the project and worked on a minesweeper AI. Much like the snake AI I used the same class and operated the same way. I created an input layer that was the size of the minefield and an output layer the same size. Whatever value the AI outputted is the value that was clicked.
 
-[Simple Minesweeper](/images/AI/simple%20minesweeper.png)
+![Simple Minesweeper](/images/AI/simple%20minesweeper.png)
 
 The challenge with this was the time it took to train and aggregate data. The start was similar to that of the snake AI. I had to create minesweeper from scratch in order to read the field and output the value I wanted to be clicked via code. This was the easy part though. Having the AI actually learn at a reasonable rate takes a long time with a lot of testing.
 
-[Learning AI](/images/AI/minesweeper%20learning.png)
+![Learning AI](/images/AI/minesweeper%20learning.png)
 
 This process is simple, just time consuming. There are known better ways to do this, especially with pre made libraries like TensorFlow in python. I have used those before in various classes, but I still enjoy the process of making this all myself. I have learned a lot form this project and will continue to make AI in the future for fun. Next I believe I will try to make an AI with the NEAT model.
 
