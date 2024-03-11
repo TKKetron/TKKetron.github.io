@@ -8,11 +8,11 @@ collection: portfolio
 
 This is one of my favorite personal projects. It taught me a lot about algorithms and taking a pre known set of instructions and converting it to code. My initial goal was to make a maze via code. This brought me to the wikipedia page containing many different algorithms for making one. I decided to challenge myself and use all of these algorithms.
 
-Here you can see in my code the ability to generate different types of mazes based on the set of instructions provided in the original wikipedia article (might be slightly different)
+Here you can see in my code the ability to generate different types of mazes based on the set of instructions provided in the original wikipedia article (might have since changed)
 
 ![Different types](/images/Maze%20Generation/types.png)
 
-for example, the provided algorithm in the above image was wilson's algorithm. This is the set of instructions i followed to generate a maze.    
+for example, the provided algorithm in the above image was Kruskal's algorithm. This is the set of instructions i followed to generate a maze.    
     *Create a list of all walls, and create a set for each cell, each containing just that one cell.
     *For each wall, in some random order:
         *If the cells divided by this wall belong to distinct sets:
@@ -49,4 +49,4 @@ Above shows the room and items generated, along with the solver working with tho
 
 This functionality allowed me to test teh A* solver implementation with open areas. this is more useful for pathing for AI in video games since usually spaces are open areas and not cramped hallways. Along with this the item generation Allows me to test item placement and density and is applicable in numerous other spaces.
 
-Check all code for this project on my [GitHub](https://github.com/TKKetron/Maze-Generator)
+Check all code for this project on my [GitHub](https://github.com/TKKetron/Maze-Generator).
